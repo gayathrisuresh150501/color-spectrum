@@ -1,0 +1,42 @@
+h1{
+font-family: 'Dancing Script', cursive;
+text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  border: 2px solid white;
+}
+
+#one{
+  background-color: rgb(205, 180, 219);
+  height: 200px;
+  width: 100px;
+}
+
+#two{
+  background-color: rgb(255, 200, 221);
+  height: 200px;
+  width: 100px;
+}
+
+#three{
+  background-color: rgb(255, 175, 204);
+  height: 200px;
+  width: 100px;
+}
+
+#four{
+  background-color: rgb(189, 224, 254);
+  height: 200px;
+  width: 100px;
+}
+
+#five{
+  background-color: rgb(162, 210, 255);
+  height: 200px;
+  width: 100px;
+}
